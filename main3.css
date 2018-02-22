@@ -1,0 +1,30 @@
+.item-1 {
+  width: 61px; }
+
+.item-2 {
+  width: 62px; }
+
+.item-3 {
+  width: 63px; }
+
+.item-4 {
+  width: 64px; }
+
+.btn {
+  width: 200px;
+  height: 100px;
+  color: #e84610;
+  border: 1px solid #e84610;
+  background-color: #fff; }
+
+h1 {
+  color: orange;
+  border: 1px solid #000; }
+
+@incude unicornify {
+  p {
+    border: 1px solid pink;
+    border-radius: 100%;
+    text-align: center; } }
+
+/*# sourceMappingURL=main3.css.map */
